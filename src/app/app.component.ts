@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MDBBootstrapModule } from 'angular-bootstrap-md';
 
 @Component({
   selector: 'my-app',
